@@ -2,7 +2,7 @@
 
 This organization hosts a collection of projects focused on the early detection and risk prediction of cardiovascular disease (CVD).
 
-Our work explores the use of mobile applications (built with Expo and React Native) to gather user health metrics. This data is processed by backend APIs (using technologies like Flask and Spring Boot) that leverage machine learning—including Deep Learning and Large Language Models—to provide users with feedback on potential cardiovascular risks.
+Our work explores the use of mobile applications (built with Expo and React Native) to gather user health metrics. This data is processed by backend APIs (using technologies like Flask and Spring Boot) that leverage machine learning-including Deep Learning and Large Language Models-to provide users with feedback on potential cardiovascular risks.
 
 ## Academic Context
 
